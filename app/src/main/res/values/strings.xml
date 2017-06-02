@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Cálculo Combustível Easy</string>
+    <string name="action_settings">Bem-vindo(a)</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- strings referentes aos textos da tela tab1 -->
+    <string name="txt_km_Inicial">0</string>
+    <string name="txt_km_Final">0</string>
+    <string name="txt_litros_abastecidos">0</string>
+    <string name="txt_litros_abastecidos_km2">0</string>
+
+    <!-- strings referentes aos labels da tela tab1 -->
+    <string name="label_km_inicio">Litros abastecidos (L)</string>
+    <string name="label_km_fim">Distância percorrida (Km)</string>
+    <string name="label_litros_abastecidos">Valor do combustível (R$)</string>
+
+    <!-- Tab2 -->
+
+    <string name="label_alcool">Valor do etanol (R$ Litro)</string>
+    <string name="label_gasolina">Valor do gasolina (R$ Litro)</string>
+    <string name="texto_acool">R$ 0.0</string>
+    <string name="texto_gasolina">R$ 0.0</string>
+    <!-- Tab3 -->
+    <string name="label_km_rodado">Km percorrido</string>
+    <string name="label_litro_total_abastecido">Litros abastecidos</string>
+    <string name="txt_km_rodado_total">0</string>
+    <string name="txt_km_total_litros">0</string>
+    <string name="btn_total_calc">Calcular</string>
+
+</resources>
