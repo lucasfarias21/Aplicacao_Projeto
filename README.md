@@ -11,8 +11,8 @@ This project is not displonivel in the virtual stores
 ### Versioning
 Version 1.0.0
 
-##Authors
+## Authors
 * **Lucas Farias**
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
